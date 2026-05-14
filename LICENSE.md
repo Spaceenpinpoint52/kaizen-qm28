@@ -1,4 +1,4 @@
-#  
+#  advanced Scripts for kaizen is the best kaizen Script, featuring teleport and auto-sell. Safe and powerful for all your needs.
 
 
 
